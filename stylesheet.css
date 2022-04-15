@@ -106,6 +106,10 @@ ul {
     margin: 3em; 
 }
 
+.volunteerorg {
+    font-weight: bold;
+}
+
 #volunteerheading {
     font-family: arial;
     font-weight: bold;
